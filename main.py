@@ -5,3 +5,5 @@ print ("Fabian Torres")
 print("Hola ", nombre)
 primera_colision = "primera"
 segunda_colision = "segunda"
+tercera_colision = "tercera"
+
