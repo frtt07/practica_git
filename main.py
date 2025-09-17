@@ -6,3 +6,4 @@ print("Hola ", nombre)
 primera_colision = "1"
 segunda_colision = "2"
 tercera_colision = "3"
+cuarta_colision = "cuarta"
