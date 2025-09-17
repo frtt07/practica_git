@@ -3,4 +3,5 @@ nombre = "Simón"
 print ("Simón Isaza Quintero")
 print ("Fabian Torres")
 print("Hola ", nombre)
-primera_colision = "primera"
+primera_colision = "1"
+segunda_colision = "2"
